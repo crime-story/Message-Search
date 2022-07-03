@@ -1,5 +1,5 @@
 # Message Search
-Message Search Problem for Artificial Intelligence, implemented with `python 3.10`.
+Message Search Problem for Artificial Intelligence, implemented with `python 3.10`
 
 You can find full documentation in romanian [(here)](../main/Documentation.pdf) :heart: :smile:
 
